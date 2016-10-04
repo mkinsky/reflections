@@ -1,11 +1,14 @@
 When would you want to create a remote repository rather than keeping all your work local?
+
 This would be beneficial when one is sharing code with various developers.  The developers can be team-members, internal members from another group, and/or external members.
+
 
 
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+The answer is two-fold.  First, the manual intervention gives the developer the ability to pull/push when required - not when the the file is saved.  Second, the manual pull/push reduces the number of commits sent to GitHub.
+
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
